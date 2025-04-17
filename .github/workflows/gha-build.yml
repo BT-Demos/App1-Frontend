@@ -23,7 +23,7 @@ jobs:
           name: "App1-Frontend"
           version: 1.0.0
           url: docker.io/App1/Frontend:1.0.0
-          digest: "sha256:r5a423fe08af5e43a7fea6c4df9c25cdf269ee113168c19722f87876677c5cb2"
+          digest: "sha256:r5a423fe08bf5e43a7fea6c4df9c25cdf269ee113168c19722f87876677c5cb2"
           type: "docker"
           cloudbees-url: "https://api.saas-preprod.beescloud.com"
           cloudbees-pat: ${{ secrets.CBP_PAT }}
